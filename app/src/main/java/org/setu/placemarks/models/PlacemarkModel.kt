@@ -1,4 +1,4 @@
-package org.setu.placemark.models
+package org.setu.placemarks.models
 
 /**
  * Data class representing a single Placemark item.
